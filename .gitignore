@@ -1,0 +1,3 @@
+# NEXT 관련 IGNORE
+next-app/node_modules
+next-app/.next
